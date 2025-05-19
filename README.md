@@ -189,8 +189,4 @@ O frontend permite ao usuário:
 | Frontend| HTML           | Estrutura da página web                       |
 | Frontend| JavaScript     | Interatividade e chamadas à API (Fetch)       |
 
----
-
 Sinta-se à vontade para expandir e melhorar este projeto!
-
-```
